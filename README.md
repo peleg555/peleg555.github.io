@@ -4,7 +4,7 @@ Hello (:
 
 My name is ✨ Peleg ✨
 
-- I am Micorbiologist and Computational Biologist with experience in single & Spatial Transcriptomics
+- I am a Micorbiologist and Computational Biologist with experience in single & Spatial Transcriptomics
 - 🌱 I’m currently Ph.D student at [shpigel-lab](https://openscholar.huji.ac.il/nahums/home)
 - 👀 I’m interested in Scientific Image Analysis and Computational Biology using R/Python/MATLAB
 - 📫 How to reach me: peleg.schneider@mail.huji.ac.il
